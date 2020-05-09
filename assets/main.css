@@ -292,6 +292,9 @@ pre {
 .center-text {
   text-align: center; }
 
+.hindi-text {
+  font-size: larger; }
+
 /**
  * Pagination
  */
