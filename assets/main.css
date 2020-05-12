@@ -197,6 +197,13 @@ pre {
       margin: auto; } }
 
 /**
+ * Center image
+ */
+.center-img {
+  display: block;
+  margin: 0 auto; }
+
+/**
  * Site footer
  */
 .site-footer {
@@ -259,7 +266,8 @@ pre {
   margin-bottom: 30px; }
 
 .post-title {
-  font-size: 33px;
+  font-size: 30px;
+  /* Was 33px before */
   letter-spacing: -1px;
   line-height: 1; }
   @media screen and (max-width: 800px) {
