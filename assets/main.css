@@ -380,6 +380,13 @@ pre {
   border: 1px solid #444;
   text-decoration: none; }
 
+.total_posts {
+  display: inline-block;
+  position: relative;
+  color: lightgray;
+  font-family: 'Bungee', cursive;
+  top: 3.75px; }
+
 /**
  * Syntax highlighting styles
  */
